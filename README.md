@@ -1,7 +1,7 @@
 
 ### Hi there 👋
 
-<img src="images\coding.jpg" width="1000"/>
+<img src="images\final_with_words.jpg" width="1000"/>
 Hi there,
 
 My name is Mory,
