@@ -11,11 +11,11 @@ I have deep love for computer games, therefore I decided to code few fun and ent
 If you would like to get know me better.
 Feel free to contact me: 
 
-* [e-mail me](mory9870@walla.co.il)
+* [e-mail me](mailto:mory9870@walla.co.il)
 
 Or here
 
-* [e-mail me](mory9870@gmail.com) 
+* [e-mail me](mailto:mory9870@gmail.com) 
 
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
@@ -26,12 +26,12 @@ I have been using python, for developing those games:
 - ⚽ I love to watch soccer
 - ✈️ I love to travel to new places on the globe 🌎
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on Python games
+- 🌱 I have an engineering degree - industry and management specializing in marketing
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 📫 How to reach me: mory9870@walla.co.il
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
