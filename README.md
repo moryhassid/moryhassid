@@ -5,8 +5,8 @@
 Hi there,
 
 My name is Mory,
-Here on Github I'll be showcasing my projects.
-I have deep love for computer games, therefore I decided to code few fun and entertaining games.
+and I'm thrilled to showcase my projects here.
+I have a deep love for computer games, which inspired me to develop a few fun and entertaining ones using Python.
 
 If you would like to get know me better.
 Feel free to contact me: 
@@ -23,15 +23,13 @@ I have been using python, for developing those games:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-- ⚽ I love to watch soccer
-- ✈️ I love to travel to new places on the globe 🌎
-
-- 🔭 I’m currently working on Python games
-- 🌱 I have an engineering degree - industry and management specializing in marketing
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- ⚽  Football Enthusiast: I love watching football.
+- ✈️  Globetrotter: Traveling and exploring new places around the world is my passion.
+- 💪 Current Focus: Developing Python-based games.
+- 🎓 Educational Background: I hold an engineering degree in Industrial and Management Engineering, specializing in Marketing.
+- 🔮 I'm always on the lookout for new collaboration opportunities.
+- 🧠 I enjoy brainstorming innovative ideas.
+- 🚀 Always striving to learn and grow in the tech world.
 - 📫 How to reach me: mory9870@walla.co.il
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
+Thanks for stopping by! Feel free to check out my projects and connect with me.
